@@ -1,0 +1,122 @@
+[
+  {
+    "name": "California",
+    "slug": "california",
+    "abbreviation": "CA",
+    "ageRequirement": 18,
+    "cardFee": 100,
+    "description": "California allows patients with qualifying medical conditions to apply for a medical card. The state has a well-established program covering a wide range of conditions including chronic pain, epilepsy, and cancer."
+  },
+  {
+    "name": "Colorado",
+    "slug": "colorado",
+    "abbreviation": "CO",
+    "ageRequirement": 18,
+    "cardFee": 25,
+    "description": "Colorado offers a medical card program with some of the lowest fees in the country. Patients must have a qualifying condition certified by a licensed physician."
+  },
+  {
+    "name": "Florida",
+    "slug": "florida",
+    "abbreviation": "FL",
+    "ageRequirement": 18,
+    "cardFee": 75,
+    "description": "Florida's medical card program requires patients to be evaluated by a qualified physician. The state covers conditions such as PTSD, ALS, Crohn's disease, and glaucoma."
+  },
+  {
+    "name": "Illinois",
+    "slug": "illinois",
+    "abbreviation": "IL",
+    "ageRequirement": 18,
+    "cardFee": 50,
+    "description": "Illinois provides medical cards for patients with debilitating conditions. The application process includes a physician certification and background check."
+  },
+  {
+    "name": "Massachusetts",
+    "slug": "massachusetts",
+    "abbreviation": "MA",
+    "ageRequirement": 18,
+    "cardFee": 50,
+    "description": "Massachusetts has a medical card program administered by the Cannabis Control Commission. Patients need a certification from a registered healthcare provider."
+  },
+  {
+    "name": "Michigan",
+    "slug": "michigan",
+    "abbreviation": "MI",
+    "ageRequirement": 18,
+    "cardFee": 40,
+    "description": "Michigan offers medical cards through its Department of Licensing and Regulatory Affairs. Qualifying conditions include chronic pain, seizures, and severe nausea."
+  },
+  {
+    "name": "Nevada",
+    "slug": "nevada",
+    "abbreviation": "NV",
+    "ageRequirement": 18,
+    "cardFee": 50,
+    "description": "Nevada's medical card program is managed by the Department of Health and Human Services. Patients can apply online after receiving a physician recommendation."
+  },
+  {
+    "name": "New York",
+    "slug": "new-york",
+    "abbreviation": "NY",
+    "ageRequirement": 18,
+    "cardFee": 50,
+    "description": "New York's medical program covers a broad range of conditions. Patients must be certified by a registered practitioner and can apply through the state's health department."
+  },
+  {
+    "name": "Ohio",
+    "slug": "ohio",
+    "abbreviation": "OH",
+    "ageRequirement": 18,
+    "cardFee": 50,
+    "description": "Ohio's medical card program requires patients to visit a certified physician. The state covers conditions including Alzheimer's, cancer, and traumatic brain injury."
+  },
+  {
+    "name": "Oregon",
+    "slug": "oregon",
+    "abbreviation": "OR",
+    "ageRequirement": 18,
+    "cardFee": 200,
+    "description": "Oregon has one of the oldest medical card programs in the country. The Oregon Health Authority manages the application process and renewals."
+  },
+  {
+    "name": "Pennsylvania",
+    "slug": "pennsylvania",
+    "abbreviation": "PA",
+    "ageRequirement": 18,
+    "cardFee": 50,
+    "description": "Pennsylvania offers medical cards through its Department of Health. Patients must be diagnosed with one of 23 qualifying conditions by an approved practitioner."
+  },
+  {
+    "name": "Texas",
+    "slug": "texas",
+    "abbreviation": "TX",
+    "ageRequirement": 18,
+    "cardFee": 0,
+    "description": "Texas has a limited medical program known as the Compassionate Use Program. It covers a smaller set of conditions compared to other states but has no card fee."
+  },
+  {
+    "name": "Arizona",
+    "slug": "arizona",
+    "abbreviation": "AZ",
+    "ageRequirement": 18,
+    "cardFee": 150,
+    "description": "Arizona's medical card program is managed by the Department of Health Services. Patients must submit a physician certification along with their application."
+  },
+  {
+    "name": "Washington",
+    "slug": "washington",
+    "abbreviation": "WA",
+    "ageRequirement": 18,
+    "cardFee": 1,
+    "description": "Washington state provides medical cards with minimal fees. The program is overseen by the Department of Health and covers a variety of qualifying conditions."
+  },
+  {
+    "name": "New Jersey",
+    "slug": "new-jersey",
+    "abbreviation": "NJ",
+    "ageRequirement": 18,
+    "cardFee": 100,
+    "description": "New Jersey's medical card program has expanded significantly in recent years. Patients can register online after receiving a physician's recommendation."
+  }
+]
