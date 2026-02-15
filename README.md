@@ -38,6 +38,7 @@ npm start
 
 - Login to `/admin/submissions`
 - View all submitted applications in a table
+- Use Username - admin and Password - admin123 for access the home page.
 
 ## Main Routes
 
