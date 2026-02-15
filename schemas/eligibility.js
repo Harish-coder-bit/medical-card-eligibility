@@ -9,7 +9,7 @@ export const eligibilitySchema = z.object({
   age: z
     .number({ invalid_type_error: "Age must be a number." })
     .int("Age must be a whole number.")
-    .min(1, "Age must be at least 1.")
+    .min(18, "You must be at least 18 years old to apply.")
     .max(120, "Age must be at most 120."),
   medicalCondition: z.string().min(1, "Medical condition is required."),
   agreePrivacy: z.literal(true, {

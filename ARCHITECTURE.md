@@ -151,6 +151,8 @@ medical-card-eligibility/
 
 12. CORS & Security Headers: Configure proper CORS policies and add security headers (CSP, X-Frame-Options, etc.) to protect against cross-origin attacks.
 
+13. Add Payment Integration: Payment integration using stripe or Paypal etc.
+
 ## Build & Deployment
 
 ### Development
